@@ -1,0 +1,18 @@
+# This is needed for local development
+[server]
+
+# No default browser
+headless = true
+
+# Required for local development
+runOnSave = true
+
+# Required for local development
+fileWatcherType = "poll"
+
+# Setting Up A Theme
+[theme]
+primaryColor="#1a1a1a"
+backgroundColor="#0e1117"
+secondaryBackgroundColor="#262730"
+textColor="#e4e4e4"
